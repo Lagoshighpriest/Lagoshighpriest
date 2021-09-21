@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lagoshighpriest
-- 👀 I’m interested in data science & business intelligence
-- 🌱 I’m currently learning data scienec & buisness intelligence (python,sql,tableau,power-bi,excel)
-- 💞️ I’m looking to collaborate on any data science & business intelligence projects
+- 👀 I’m interested data science and software engineering
+- 🌱 I’m currently learning Jquery
+- 💞️ I’m looking to collaborate on any data science and software development projects
 - 📫 How to reach me +2348140915470, alabitope007@gmail.com
 
 <!---

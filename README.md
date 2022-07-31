@@ -2,7 +2,8 @@
 - 👀 I’m a growing software engineer.
 - 🌱 I’m currently learning how to use webpack.
 - 💞️ I’m still building.
-- 📫 
+- 📫 Language and Tools:
+- Javascript, Css, Html, Java, Sql.
 
 <!---
 Lagoshighpriest/Lagoshighpriest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

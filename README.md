@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Lagoshighpriest
-- 👀 I’m interested data science and software engineering
-- 🌱 I’m currently learning Jquery
-- 💞️ I’m looking to collaborate on any data science and software development projects
-- 📫 How to reach me +2348140915470, alabitope007@gmail.com
+- 👋 Hi, I’m Temitope
+- 👀 I’m a growing software engineer.
+- 🌱 I’m currently learning how to use webpack.
+- 💞️ I’m still building.
+- 📫 
 
 <!---
 Lagoshighpriest/Lagoshighpriest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

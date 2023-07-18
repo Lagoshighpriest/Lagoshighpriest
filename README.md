@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Temitope
 - 👀 I’m a growing software engineer.
-- 🌱 I’m currently learning how to use webpack.
+- 🌱 On my way to becoming a cloud security engineer
 - 💞️ I’m still building.
 - 📫 Language and Tools:
-- Javascript, Css, Html, Java, Sql.
+- Python, Django, Javascript, and SQL.
 
 <!---
 Lagoshighpriest/Lagoshighpriest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
